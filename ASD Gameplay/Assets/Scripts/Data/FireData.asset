@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a28895f0048644c977d92d13154693, type: 3}
+  m_Name: FireData
+  m_EditorClassIdentifier: 
+  spreadTimeInSeconds: 5
+  fires:
+  - {fileID: 8416814298094754109, guid: eaf5a371d9c52af43ab8587e2e663f86, type: 3}
+  - {fileID: 4099115867738641808, guid: 9b7e89e6e8913d8428b17d9f9243b0fe, type: 3}
+  - {fileID: 3796367127995257471, guid: 3fbc42ead1be4574e9f835e063ed53c0, type: 3}
+  smoke: {fileID: 4508696319873668, guid: 2afc74af1878ee04d82e7baa3e27531c, type: 3}
