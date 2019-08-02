@@ -6,6 +6,12 @@ Another System Down game project's Fire Spread System.
 # What's this project all about
 This project contains some of the scripts from our school project Another System Down, which was made in Netherlands University of Applied Sciences, HAN. My role in this game project was a game programmer.
 
+You can visit our game from our website: 
+https://anothersystemdown.nl/
+
+You can download the game from DropBox, as the download link from the website has expired: 
+https://www.dropbox.com/h?preview=Another+System+Down.rar
+
 # Grid- & Fire Spread System
 Grid System stores a list of nodes, which store data for ex. node's position in world space, gridX, gridY, gridZ and onFire boolean. Grid creates nodes, which are sized by public variable. So node size is 1 in world space and we can spawn things inside the node by calculating center of the node. When the flame is instantiated, it keeps growing bigger and bigger. When it has reached the max size of the flame, it will start to spread the fire by checking neighbor nodes from current node.
 
