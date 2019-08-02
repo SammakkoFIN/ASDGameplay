@@ -6,7 +6,7 @@ Another System Down game project's Fire Spread System.
 # What's this project all about
 This project contains some of the scripts from our school project Another System Down, which was made in Netherlands University of Applied Sciences, HAN. My role in this game project was a game programmer.
 
-You can visit our game from our website: 
+You can visit our game from our website:
 https://anothersystemdown.nl/
 
 You can download the game from DropBox, as the download link from the website has expired: 
